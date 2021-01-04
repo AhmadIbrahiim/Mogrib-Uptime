@@ -4,14 +4,11 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Mogrib.com
+    url: https://www.mogrib.com
+  - name: 3lagnb.com
+    url: https://www.3lagnb.com
   - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
