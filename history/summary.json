@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.mogrib.com",
     "slug": "mogrib-com",
     "status": "up",
-    "uptime": "98.68%",
+    "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "98.68%",
-    "time": 635,
-    "timeDay": 599,
-    "timeWeek": 617,
-    "timeMonth": 635,
-    "timeYear": 635,
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "98.75%",
+    "time": 636,
+    "timeDay": 650,
+    "timeWeek": 631,
+    "timeMonth": 636,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2021-01-06": 333
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 291,
-    "timeWeek": 306,
-    "timeMonth": 296,
-    "timeYear": 296,
+    "time": 297,
+    "timeDay": 318,
+    "timeWeek": 308,
+    "timeMonth": 297,
+    "timeYear": 297,
     "dailyMinutesDown": {}
   }
 ]
