@@ -4,12 +4,12 @@
     "url": "https://www.mogrib.com",
     "icon": "https://favicons.githubusercontent.com/www.mogrib.com",
     "slug": "mogrib-com",
-    "status": "up",
-    "uptime": "90.66%",
-    "uptimeDay": "59.50%",
+    "status": "down",
+    "uptime": "90.67%",
+    "uptimeDay": "66.76%",
     "uptimeWeek": "42.01%",
     "uptimeMonth": "66.32%",
-    "uptimeYear": "90.66%",
+    "uptimeYear": "90.67%",
     "time": 1383,
     "timeDay": 15587,
     "timeWeek": 7343,
@@ -91,8 +91,7 @@
       "2021-04-27": 293,
       "2021-03-16": 21,
       "2021-03-01": 32,
-      "2021-02-27": 54,
-      "2021-02-12": 22
+      "2021-02-27": 54
     }
   },
   {
